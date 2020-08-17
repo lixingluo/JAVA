@@ -1,4 +1,6 @@
 # Polymorphism
 
-## 不使用constructors调用constructors的坏处
-When 2 parametered constructors require a same specific parameter, you will have to initilize that parameter twice. When the initilization changes, parameters type, parameters numbers, parameters order, you will have to change in every constructor.
+## 函数的重载和重写(override && overload)
+||位置|方法名|参数名|返回值|访问修饰符|
+|:--:|:--:|:--:|:--:|:--:|:--:|
+
